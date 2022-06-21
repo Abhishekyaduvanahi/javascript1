@@ -1,0 +1,10 @@
+// for each loop in php == for in loop
+
+// for of loop
+
+"use strict"
+
+const arr =[2,3,4,56,6];
+for(let element of arr){
+    document.write(element);
+}
